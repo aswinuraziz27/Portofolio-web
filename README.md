@@ -140,7 +140,7 @@
     <!-- DOWNLOAD CV -->
     <section style="text-align:center;">
         <h2>Download CV</h2>
-        <a href="Portofolio Aswi nur aziz.pdf" download class="button">
+        <a href="portofolio Aswi nur aziz.pdf" download class="button">
             Download CV Saya
         </a>
     </section>
