@@ -130,7 +130,7 @@
     </div>
 
     <!-- Download CV -->
-    <a href="portofolio Aswi nur aziz.pdf" download class="button">Download CV Saya</a>
+    <a href="portofolio Aswi nur aziz.pdf" download class="button">Download Portofolio</a>
 </div>
 
 </body>
