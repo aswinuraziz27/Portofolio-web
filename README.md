@@ -132,9 +132,9 @@
     <!-- KONTAK -->
     <section class="contact">
         <h2>Kontak</h2>
-        <p><strong>Email:</strong> - (isi email kamu nanti)</p>
-        <p><strong>No. HP:</strong> - (isi nomor kamu)</p>
-        <p><strong>Alamat:</strong> Pacitan, Jawa Timur</p>
+        <p><strong>Email:</strong> - (aswinuraziz27@gmail.com)</p>
+        <p><strong>No. HP:</strong> - (083834621384)</p>
+        <p><strong>Alamat:</strong> Rt 02/Rw06, Dusun Kangkung, Desa Hadiwarno, Kecamatan Ngadirojo, Kabupaten PacitanPacitan, Jawa Timur</p>
     </section>
 
     <!-- DOWNLOAD CV -->
